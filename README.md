@@ -1,15 +1,6 @@
-# Buzi_blog
+# 最新博客Buzi_blog
 
 > 德丽莎世界第一可爱！
-
-
-# 旧版博客（考古）
-
-> 仓库名：littebuzi2.github.io
-
-> https://littlebuzi.github.io/littebuzi2.github.io/littlebuzi/index.html
-
-> https://littlebuzi.github.io/littebuzi2.github.io/
 
 # cms
 
@@ -44,4 +35,12 @@
 > 友人帐
 
 ![](https://github.com/littlebuzi/Buzi_blog/blob/master/博客2.png)
+
+# 旧版博客（欢迎考古）
+
+> 仓库名：littebuzi2.github.io
+
+> https://littlebuzi.github.io/littebuzi2.github.io/littlebuzi/index.html
+
+> https://littlebuzi.github.io/littebuzi2.github.io/
 
