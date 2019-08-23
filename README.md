@@ -2,6 +2,15 @@
 
 > 德丽莎世界第一可爱！
 
+
+# 旧版博客（考古）
+
+> 仓库名：littebuzi2.github.io
+
+> https://littlebuzi.github.io/littebuzi2.github.io/littlebuzi/index.html
+
+> https://littlebuzi.github.io/littebuzi2.github.io/
+
 # cms
 
 > Typecho
